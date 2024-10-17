@@ -1,2 +1,3 @@
 # BegzarWeb
-Web Interface.
+Web Interface for : https://begzar.xyz
+Email : info@begzar.xyz
